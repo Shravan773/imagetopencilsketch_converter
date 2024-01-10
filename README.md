@@ -22,4 +22,5 @@ This Python project utilizes OpenCV for transforming images into captivating pen
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-to-pencil-sketch.git
+   git clone https://github.com/Shravan773/image-to-pencil-sketch.git
+   
